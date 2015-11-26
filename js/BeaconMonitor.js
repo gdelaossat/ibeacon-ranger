@@ -28,26 +28,26 @@ function BeaconMonitor() {
 	this.monitorBeacons = [
         {
             identifier:'ib1',
-            uuid:'A495FF99-C5B1-4B44-B512-1370F02D74DE',
-            major:1,
+            uuid:'57AF5A7E-442B-4191-A5EC-726DB33D6A53',
+            major:1200,
             minor:1
         },
         {
             identifier:'ib2',
-            uuid:'A495FF99-C5B1-4B44-B512-1370F02D74DE',
-            major:1,
+            uuid:'57AF5A7E-442B-4191-A5EC-726DB33D6A53',
+            major:1200,
             minor:2
         },
         {
             identifier:'ib3',
-            uuid:'A495FF99-C5B1-4B44-B512-1370F02D74DE',
-            major:1,
+            uuid:'57AF5A7E-442B-4191-A5EC-726DB33D6A53',
+            major:1200,
             minor:3
         },
         {
             identifier:'ib4',
-            uuid:'A495FF99-C5B1-4B44-B512-1370F02D74DE',
-            major:1,
+            uuid:'57AF5A7E-442B-4191-A5EC-726DB33D6A53',
+            major:1200,
             minor:4
         }
     ];
@@ -86,61 +86,61 @@ function BeaconMonitor() {
         */
         {
             identifier:'onyx1',
-            uuid:'20CAE8A0-A9CF-11E3-A5E2-0800200C9A66',
-            major:213,
-            minor:17163
+            uuid:'57AF5A7E-442B-4191-A5EC-726DB33D6A53',
+            major:1200,
+            minor:1
         },
         {
             identifier:'onyx2',
-            uuid:'20CAE8A0-A9CF-11E3-A5E2-0800200C9A66',
-            major:213,
-            minor:16330
+            uuid:'57AF5A7E-442B-4191-A5EC-726DB33D6A53',
+            major:1200,
+            minor:2
         },
         {
             identifier:'onyx3',
-            uuid:'20CAE8A0-A9CF-11E3-A5E2-0800200C9A66',
-            major:212,
-            minor:64096
+            uuid:'57AF5A7E-442B-4191-A5EC-726DB33D6A53',
+            major:1200,
+            minor:3
         },
         {
             identifier:'onyx4',
-            uuid:'20CAE8A0-A9CF-11E3-A5E2-0800200C9A66',
-            major:213,
-            minor:25553
+            uuid:'57AF5A7E-442B-4191-A5EC-726DB33D6A53',
+            major:1200,
+            minor:4
         },
         {
             identifier:'onyx5',
-            uuid:'20CAE8A0-A9CF-11E3-A5E2-0800200C9A66',
+            uuid:'57AF5A7E-442B-4191-A5EC-726DB33D6A53',
             major:213,
             minor:17671
         },
         {
             identifier:'onyx6',
-            uuid:'20CAE8A0-A9CF-11E3-A5E2-0800200C9A66',
+            uuid:'57AF5A7E-442B-4191-A5EC-726DB33D6A53',
             major:213,
             minor:27164
         },
         {
             identifier:'onyx7',
-            uuid:'20CAE8A0-A9CF-11E3-A5E2-0800200C9A66',
+            uuid:'57AF5A7E-442B-4191-A5EC-726DB33D6A53',
             major:213,
             minor:16351
         },
         {
             identifier:'onyx8',
-            uuid:'20CAE8A0-A9CF-11E3-A5E2-0800200C9A66',
+            uuid:'57AF5A7E-442B-4191-A5EC-726DB33D6A53',
             major:212,
             minor:65357
         },
         {
             identifier:'onyx9',
-            uuid:'20CAE8A0-A9CF-11E3-A5E2-0800200C9A66',
+            uuid:'57AF5A7E-442B-4191-A5EC-726DB33D6A53',
             major:213,
             minor:26374
         },
         {
             identifier:'onyx10',
-            uuid:'20CAE8A0-A9CF-11E3-A5E2-0800200C9A66',
+            uuid:'57AF5A7E-442B-4191-A5EC-726DB33D6A53',
             major:213,
             minor:2617
         }
